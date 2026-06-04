@@ -1,4 +1,4 @@
-# 3D Mobile Robot Navigation using A* Path Planning in MATLAB
+# Autonomous Mobile Robot Navigation using A* Path Planning in MATLAB
 
 ## Overview
 
